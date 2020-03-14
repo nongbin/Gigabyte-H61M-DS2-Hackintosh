@@ -1,0 +1,23 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-DlgOrder]
+Dlg0={B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdWelcome-0
+Count=3
+Dlg1={B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdStartCopy2-0
+Dlg2={B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdFinish-0
+[{B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdWelcome-0]
+Result=1
+[{B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdStartCopy2-0]
+Result=1
+[Application]
+Name=@BIOS
+Version=2.09
+Company=GIGABYTE
+Lang=0009
+[{B2DC3F08-2EB2-49A5-AA24-15DFC8B1CB83}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0
